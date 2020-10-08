@@ -1,3 +1,4 @@
+# shodan : "port:9042 version"
 # ferme la vlad xD
 cat "iplist" | while read line
 do
